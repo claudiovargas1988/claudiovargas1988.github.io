@@ -80,8 +80,9 @@ about:
   enable : true
   title : "Saludos"
   image : "images/about/Claudio.jpeg"
-  content : "En caso de accidentes de tráfico recuerda que tu tambien tienes derechos, si necesitas 
-  asistencia tranquilo contactame que yo te puedo ayudar"
+  content : "Seas culpable o no en un accidente de auto, recuerda que tu también tienes derechos y beneficios. Estoy disponible 24/7 para ayudarte
+
+\n \\* No soy abogado ni brindo asesoría legal \\*"
   button:
     enable : true
     label : "Contactar"
@@ -97,8 +98,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Tuviste un accidente de tránsito?"
-  title : "Contactame yo puedo ayudar!"
+  subtitle : "¿Tuviste un accidente de auto?"
+  title : "Contáctame, puedo ayudarte"
   button:
     enable : true
     label : "Contactar"

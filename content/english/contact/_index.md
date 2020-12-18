@@ -4,8 +4,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/greeting.jpg"
 # meta description
-description : "Estoy a tu servicio si sufriste una colisión o siniestro vial puedes contar con mi ayuda"
+description : "Estoy a tu servicio en caso de accidente de auto. Puedes contar con mi ayuda
+\n
+\\* No soy abogado ni brindo asesoría legal \\*"
 ---
 
-Recuerda siempre antes de usar tu auto usar el cinturón de seguridad y verifica que tus pasajeros
-tambien lo lleven puesto seguridad ante todo
+Recuerda siempre utilizar el cinturon de seguridad antes de empezar a manejar tu auto y verifica que tus pasajeros también hagan lo mismo, seguridad ante todo
