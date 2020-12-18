@@ -1,6 +1,7 @@
 baseURL = "http://examplesite.org"
 title = "Claudio Vargas"
 theme = "educenter-hugo"
+publishDir = "docs"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
 features = ["blog", "company", "responsive", "seo-esiendly"]
 

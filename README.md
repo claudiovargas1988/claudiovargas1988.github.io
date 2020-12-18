@@ -25,7 +25,7 @@ Puedes usar el ejemplo dentro de:
 ```
 themes/educenter-hugo/exampleSite
 ```
-ese es un ejemple de como puedes usar el layout del tema
+ese es un ejemplo de como puedes usar el layout del tema
 
 ## Config
 
