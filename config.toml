@@ -45,7 +45,7 @@ address = "United States (Estados Unidos)"
 mobile = "+1 (786) 731-1852"
 email = "contacto@claudiovargas305.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xqkgyrvj" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
