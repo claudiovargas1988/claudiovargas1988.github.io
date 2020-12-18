@@ -1,6 +1,5 @@
 baseURL = "http://examplesite.org"
 title = "Claudio Vargas"
-languageCode = "en-us"
 theme = "educenter-hugo"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
 features = ["blog", "company", "responsive", "seo-esiendly"]
@@ -38,12 +37,12 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Tuviste un accidente de tránsito? no te preocupes contactame que yo puedo ayudarte USA Miami"
+author = "Claudio Vargas"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "United States (Estados Unidos)"
+mobile = "+1 (786) 731-1852"
+email = "contacto@claudiovargas305.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -81,27 +80,27 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/claudio.vargas.75098364"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/claudiok1"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/claudiovargas1988"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "whatsap"
+icon = "ti-comments-smiley" # themify icon : https://themify.me/themify-icons
+link = "https://api.whatsapp.com/send?phone=17867311852&text=Hola Claudio!%20Quiero%20hacerte%20una%20consulta%20saludos!"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/claudiovargas1"
 
 
 ################################### English language #####################################
@@ -112,7 +111,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020"
 
 
 
@@ -120,14 +119,14 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
-url = "about"
+name = "Inicio"
+url = ""
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "course"
-url = "course"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "course"
+#url = "course"
+#weight = 2
 
 [[Languages.en.menu.main]]
 weight = 3
@@ -159,13 +158,13 @@ hasChildren = true
   name = "research"
   url = "research"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "blog"
+#weight = 4
   
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 5
 
@@ -200,9 +199,9 @@ languageName = "es"
 languageCode = "es-es"
 contentDir = "content/esench"
 weight = 2
-home = "Accueil"
+home = "Inicio"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020"
 
 
 
