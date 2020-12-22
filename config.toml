@@ -47,7 +47,7 @@ email = "contacto@claudiovargas305.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/xqkgyrvj" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-185951719-1" # your id
 # top header
 top_header = true
 navbar = false
