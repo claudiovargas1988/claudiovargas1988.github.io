@@ -50,7 +50,7 @@ contact_form_action = "https://formspree.io/f/xqkgyrvj" # contact form works wit
 google_analitycs_id = "UA-185951719-1" # your id
 # top header
 top_header = true
-navbar = false
+navbar = true
 
 # Preloader
 [params.preloader]
@@ -110,7 +110,7 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
+home = "Inicio"
 # copyright
 copyright = "Copyright &copy; 2020"
 
@@ -120,8 +120,8 @@ copyright = "Copyright &copy; 2020"
 
 # main menu
 [[Languages.en.menu.main]]
-name = "Inicio"
-url = ""
+name = "Noticias"
+url = "news"
 weight = 1
 
 #[[Languages.en.menu.main]]
@@ -129,45 +129,45 @@ weight = 1
 #url = "course"
 #weight = 2
 
-[[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
+# [[Languages.en.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "event"
+#   url = "event"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "scholarship"
+#   url = "scholarship"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research"
   
 #[[Languages.en.menu.main]]
 #name = "blog"
 #url = "blog"
 #weight = 4
   
-[[Languages.en.menu.main]]
-name = "Contacto"
-url = "contact"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Contacto"
+# url = "contact"
+# weight = 5
 
 
 # footer menu
@@ -195,89 +195,89 @@ url = "research"
 
 
 ################################### Spanish language #####################################
-[Languages.es]
-languageName = "es"
-languageCode = "es-es"
-contentDir = "content/esench"
-weight = 2
-home = "Inicio"
-# copyright
-copyright = "Copyright &copy; 2020"
+# [Languages.es]
+# languageName = "es"
+# languageCode = "es-es"
+# contentDir = "content/esench"
+# weight = 2
+# home = "Inicio"
+# # copyright
+# copyright = "Copyright &copy; 2020"
 
 
 
 ################### Spanish navigation ####################
 
-# main menu
-[[Languages.es.menu.main]]
-name = "Acerca"
-url = "about"
-weight = 1
+# # main menu
+# [[Languages.es.menu.main]]
+# name = "Acerca"
+# url = "about"
+# weight = 1
 
-[[Languages.es.menu.main]]
-name = "Cursos"
-url = "course"
-weight = 2
+# [[Languages.es.menu.main]]
+# name = "Cursos"
+# url = "course"
+# weight = 2
 
-[[Languages.es.menu.main]]
-weight = 3
-name = "Paguinas"
-hasChildren = true
+# [[Languages.es.menu.main]]
+# weight = 3
+# name = "Paguinas"
+# hasChildren = true
 
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "maestro"
-  url = "teacher"
+#   [[Languages.es.menu.main]]
+#   parent = "Pages"
+#   name = "maestro"
+#   url = "teacher"
 
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "noticias"
-  url = "notice"
+#   [[Languages.es.menu.main]]
+#   parent = "Pages"
+#   name = "noticias"
+#   url = "notice"
 
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "eventos"
-  url = "event"
+#   [[Languages.es.menu.main]]
+#   parent = "Pages"
+#   name = "eventos"
+#   url = "event"
 
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "becas"
-  url = "scholarship"
+#   [[Languages.es.menu.main]]
+#   parent = "Pages"
+#   name = "becas"
+#   url = "scholarship"
 
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "investigaciòn"
-  url = "research"
+#   [[Languages.es.menu.main]]
+#   parent = "Pages"
+#   name = "investigaciòn"
+#   url = "research"
   
-[[Languages.es.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
+# [[Languages.es.menu.main]]
+# name = "blog"
+# url = "blog"
+# weight = 4
   
-[[Languages.es.menu.main]]
-name = "contacto"
-url = "contact"
-weight = 5
+# [[Languages.es.menu.main]]
+# name = "contacto"
+# url = "contact"
+# weight = 5
 
 
-# footer menu
+# # footer menu
 
-[[Languages.es.menu.footer]]
-name = "maestro"
-url = "teacher"
+# [[Languages.es.menu.footer]]
+# name = "maestro"
+# url = "teacher"
 
-[[Languages.es.menu.footer]]
-name = "noticias"
-url = "notice"
+# [[Languages.es.menu.footer]]
+# name = "noticias"
+# url = "notice"
 
-[[Languages.es.menu.footer]]
-name = "eventos"
-url = "event"
+# [[Languages.es.menu.footer]]
+# name = "eventos"
+# url = "event"
 
-[[Languages.es.menu.footer]]
-name = "Becas"
-url = "scholarship"
+# [[Languages.es.menu.footer]]
+# name = "Becas"
+# url = "scholarship"
 
-[[Languages.es.menu.footer]]
-name = "investigaciòn"
-url = "research"
+# [[Languages.es.menu.footer]]
+# name = "investigaciòn"
+# url = "research"
